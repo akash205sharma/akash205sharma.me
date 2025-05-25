@@ -30,7 +30,7 @@ export default function Projects() {
       description:
       "A modern text-editing app with GitHub integration, code editor and VS Code–like file structure. Enables users to create, save, and manage notes and codes snippets securely in their GitHub repositories.",
       image: "/Notebrain_logo.png",
-      technologies: ["Next.js", "TypeScript", "Prisma", "PostgreSQL"],
+      technologies: ["Next.js", "TypeScript", "Github Rest Api", "IndexedDB"],
       liveUrl: "https://notebrain.vercel.app/",
       githubUrl: "https://github.com/akash205sharma/NoteBrain",
     },
