@@ -35,7 +35,17 @@ export default function Projects() {
       githubUrl: "https://github.com/akash205sharma/NoteBrain",
     },
     {
-      id: "2",
+      id:"2",
+      title: "VisionLiv — A Property Lending / Renting website ",
+      description:
+      "A modern website for buying and lending propeties on rent every where you want and liv in your dream place. Host your propety for other travellers and earn a handsome living. Best site for travellers, visitors and foreigner",
+      image:"/vision.png",
+      technologies:["Nextjs","Mongodb","CRUD","Express","Stripe"],
+      liveUrl: "https://visionliv.vercel.app/",
+      githubUrl: "https://github.com/akash205sharma/Visionliv"
+    },
+    {
+      id: "3",
       title: "Venomous-Realtime Multiplayer game with Video & Chat",
       description:"real-time multiplayer web game with integrated video calling, live chat, and team-based room management. Built for fun, strategy, and social interaction using WebSockets, WebRTC.",
       // "An online multiplayer snake&Ladder game with realtime video & chatting support with room management for each team",
@@ -45,7 +55,7 @@ export default function Projects() {
       githubUrl: "https://github.com/akash205sharma/venomous",
     },
     {
-      id: "3",
+      id: "4",
       title: "ShopEasy - E-Commerce Platform",
       description:
         "A full-stack e-commerce solution with cart management, inventory management, and admin dashboard.",
